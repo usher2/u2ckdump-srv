@@ -1,4 +1,4 @@
-FROM golang:1.14-alpine
+FROM golang:1.17-alpine
 
 WORKDIR /go/src/app
 RUN addgroup -g 5000 ashot \

@@ -1,5 +1,5 @@
-/var/log/ckdump/info.log
-/var/log/ckdump/error.log
+/var/opt/logs-srv-ru-ckdump/info.log
+/var/opt/logs-srv-ru-ckdump/error.log
 {
         rotate 2
         daily
